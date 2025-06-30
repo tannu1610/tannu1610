@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Tannu Kumari  
 ### 💻 A passionate Software Engineer from India 🇮🇳
 
-📧 **Email Me:** [tannukumari1610@gmail.com](mailto:tannukumari1610@gmail.com)  
+📧 **Email Me:** [tannukumari161004@gmail.com](mailto:tannukumari1610@gmail.com)  
 Looking to **collaborate**, work on **projects**, or just say hello? Feel free to reach out! 😊
 
 ---
