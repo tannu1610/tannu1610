@@ -8,12 +8,11 @@ Looking to **collaborate**, work on **projects**, or just say hello? Feel free t
 
 ## 🎓 About Me
 - 🎓 **Currently studying at:** RGPV, Bhopal  
-- 🌱 **Learning:** Java Development  
-- 🤝 **Collaborating on:** Java & Web-based Projects  
+- 🌱 **Learning:** Python,Django 
+- 🤝 **Collaborating on:** Python & Web-based Projects  
 - 🧠 **Open to learn:** Real-world dev practices & Open Source  
-- 💬 **Ask me about:** Java, Web Dev, Collaboration  
-- 😄 **Pronouns:** Miss Tannu  
-- ⚡ **Fun Fact:** I love tech—and it loves me back!
+- 💬 **Ask me about:** Python, Web Dev, Collaboration  
+- 
 
 ---
 
